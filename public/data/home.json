@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "eyebrow": "Independent Design Studio — Est. 2018",
+    "title": "We craft digital\nexperiences that\nmove the world.",
+    "subtitle": "A multidisciplinary studio building bold brands, immersive websites and motion-driven products for ambitious teams.",
+    "cta": { "label": "Start a project", "href": "/contact" },
+    "secondaryCta": { "label": "See our work", "href": "/work" }
+  },
+  "featuredWork": {
+    "eyebrow": "Selected Work",
+    "title": "Recent obsessions",
+    "projects": [
+      { "slug": "lumen-os", "title": "Lumen OS", "category": "Website", "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&q=80" },
+      { "slug": "nova-finance", "title": "Nova Finance", "category": "UI/UX", "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80" },
+      { "slug": "atlas-motion", "title": "Atlas Motion", "category": "Video", "image": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1200&q=80" },
+      { "slug": "ember-social", "title": "Ember Social", "category": "Social Media", "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1200&q=80" }
+    ]
+  },
+  "servicesSnapshot": {
+    "eyebrow": "What we do",
+    "title": "Services built for the bold",
+    "items": [
+      { "title": "Brand Identity", "description": "Names, logos and systems that say something." },
+      { "title": "Web Design & Build", "description": "Editorial sites and interactive product surfaces." },
+      { "title": "Motion & Film", "description": "Title sequences, product films and 3D motion." },
+      { "title": "Digital Product", "description": "End-to-end UX for SaaS, fintech and consumer apps." }
+    ]
+  },
+  "marquee": ["Brand", "Web", "Motion", "Product", "Strategy", "3D", "Identity", "Film"],
+  "footerCta": {
+    "title": "Have a brief? Let's make it remarkable.",
+    "cta": { "label": "Get in touch", "href": "/contact" }
+  }
+}
